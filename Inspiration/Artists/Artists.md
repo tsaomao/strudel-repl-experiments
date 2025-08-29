@@ -1,0 +1,17 @@
+# Artists I follow
+- Switch Angel
+  - TikTok: @switch.angel
+  - YouTube: https://www.youtube.com/@Switch-Angel
+  - GitHub: https://github.com/switchangel
+- DJ Dave
+  - TikTok: @dj_dave__
+  - YouTube: https://www.youtube.com/channel/UClP415zhIvcwjjuFj1o3V3g
+  - GitHub: https://github.com/algorave-dave
+- char
+  - TikTok: @charstiles
+  - YouTube: https://www.youtube.com/@charstiles
+  - GitHub: https://github.com/CharStiles
+- futuregirl
+  - TikTok: @futureg1rl
+  - YouTube: ?
+  - GitHub: ?

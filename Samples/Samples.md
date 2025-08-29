@@ -6,7 +6,7 @@ Part of that work is sampling.
 Since I'm new here, I'll try to create my own samples, or maybe use freely given libraries of samples, in my own work. But it's up to you.
 
 ## Licensing
-Everything I create and share here I give freely. Feel free to use it as you see fit. If I catch you do fascist shit with it, I'll sabotage you any way I can. Be warned.
+Everything I create and share here I give freely. Feel free to use it as you see fit. If I catch you doing fascist shit with it, I'll sabotage you any way I can. Be warned.
 
 ## Usage
 Migrated to GitHub.
