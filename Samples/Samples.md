@@ -11,7 +11,9 @@ Everything I create and share here I give freely. Feel free to use it as you see
 ## Usage
 Migrated to GitHub.
 
-### In (Strudel REPL)[https://strudel.cc]
+### In Strudel REPL 
+(Strudel REPL)[https://strudel.cc]
+
 Use "github:tsaomao/strudel-repl-experiments/" to reference this repo. Samples will reside under the Samples subfolder.
 
 Sample code for the test Sample:
