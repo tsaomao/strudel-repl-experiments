@@ -12,7 +12,7 @@ Everything I create and share here I give freely. Feel free to use it as you see
 Migrated to GitHub.
 
 ### In Strudel REPL 
-(Strudel REPL)[https://strudel.cc]
+[Strudel REPL](https://strudel.cc)
 
 Use "github:tsaomao/strudel-repl-experiments/" to reference this repo. Samples will reside under the Samples subfolder.
 
