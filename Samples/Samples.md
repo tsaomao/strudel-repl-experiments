@@ -16,7 +16,8 @@ TBD depending on hosting platform.
 
 ## Licensed Repos
 Repos that are either implied free (by being linked in popular tutorials or how the Readmes read), or where freeness is explicit.
-* 
+- github:emrexdeger/strudelSamples  - CC0 1.0 Universal
+  
 
 ## UNlicensed Repos
 Here, you have to make your own determination, or maybe only use them for personal experiments.
