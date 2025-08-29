@@ -1,15 +1,24 @@
-## Add your files
+# Samples
+DJ creation, including tasks, mixing, remixing, tweaking, sampling, and sequencing are wildly creative practices that often rework other practicing DJs' and producers' work. We share, we try to share respectfully, and learn from each other, constantly innovating and riffing off of others' ideas.
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+Part of that work is sampling.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/tsaomao/strudel-repl-experiments.git
-git branch -M main
-git push -uf origin main
-```
+Since I'm new here, I'll try to create my own samples, or maybe use freely given libraries of samples, in my own work. But it's up to you.
 
-# Editing this README
+## Licensing
+Everything I create and share here I give freely. Feel free to use it as you see fit. If I catch you do fascist shit with it, I'll sabotage you any way I can. Be warned.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+## Usage
+Hosting on GitLab is presenting challenges. May have to migrate to GitHub and hold nose (see warning against fascism).
+
+### In (Strudel REPL)[https://strudel.cc]
+TBD depending on hosting platform. 
+
+## Licensed Repos
+Repos that are either implied free (by being linked in popular tutorials or how the Readmes read), or where freeness is explicit.
+* 
+
+## UNlicensed Repos
+Here, you have to make your own determination, or maybe only use them for personal experiments.
+- github:smosgasbord/samples
+- 
