@@ -9,15 +9,26 @@ Since I'm new here, I'll try to create my own samples, or maybe use freely given
 Everything I create and share here I give freely. Feel free to use it as you see fit. If I catch you do fascist shit with it, I'll sabotage you any way I can. Be warned.
 
 ## Usage
-Hosting on GitLab is presenting challenges. May have to migrate to GitHub and hold nose (see warning against fascism).
+Migrated to GitHub.
 
 ### In (Strudel REPL)[https://strudel.cc]
-TBD depending on hosting platform. 
+Use "github:tsaomao/strudel-repl-experiments/" to reference this repo. Samples will reside under the Samples subfolder.
+
+Sample code for the test Sample:
+````
+samples({
+  cb: 'Samples/Test/CB.WAV',
+}, 'github:tsaomao/strudel-repl-experiments/')
+
+s("cb*4")
+````
 
 ## Licensed Repos
 Repos that are either implied free (by being linked in popular tutorials or how the Readmes read), or where freeness is explicit.
 - github:emrexdeger/strudelSamples  - CC0 1.0 Universal
-  
+- github:tidalcycles/Dirt-Samples/master
+- github:jarmitage/jarmitage.github.io/master/ - see /samples/guitar
+
 
 ## UNlicensed Repos
 Here, you have to make your own determination, or maybe only use them for personal experiments.
