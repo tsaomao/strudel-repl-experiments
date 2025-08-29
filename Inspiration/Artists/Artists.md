@@ -15,5 +15,3 @@
   - TikTok: @heizdd
 - futuregirl
   - TikTok: @futureg1rl
-  - YouTube: ?
-  - GitHub: ?
