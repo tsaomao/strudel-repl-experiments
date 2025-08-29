@@ -11,6 +11,8 @@
   - TikTok: @charstiles
   - YouTube: https://www.youtube.com/@charstiles
   - GitHub: https://github.com/CharStiles
+- heidz
+  - TikTok: @heizdd
 - futuregirl
   - TikTok: @futureg1rl
   - YouTube: ?
