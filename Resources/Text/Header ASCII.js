@@ -24,5 +24,6 @@
 // Created by: Tsao Mao
 // Date: 8/28/2025
 // License: Free reuse and derivation. Would prefer you credit me, if possible, by name at least if not ASCII banners.
+//     No reuse willingly granted to fascists.
 // Wordpress: https://geekblog.malcolmgin.com/strudel-repl/
-// Gitlab Repo: https://gitlab.com/tsaomao/strudel-repl-experiments
+// Gitlab Repo: https://github.com/tsaomao/strudel-repl-experiments/
