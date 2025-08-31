@@ -15,3 +15,6 @@
   - TikTok: @heizdd
 - futuregirl
   - TikTok: @futureg1rl
+- Eli Dolney (LearningTheWires)
+  - YouTube: https://www.youtube.com/@LearningTheWires/shorts
+  - Website: https://elidolney.dev/
