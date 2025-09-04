@@ -19,22 +19,33 @@
 // per: https://www.elephantdrums.co.uk/blog/guides-and-resources/amen-break-drum-groove/
 // See also: https://ukf.com/read/10-things-you-need-to-know-about-the-amen-break/
 //           https://tidalcycles.org/docs/reference/mini_notation/
-// DRAFT - Second approximation - Mini Notation
+// DRAFT - Third approximation - Mini Notation and cat
 setCps (150/60/4)
 
-$:  s("{~!48 ~!10 cr ~!5}/4")
+const C1 = "~!16"
+const C4 = "~!10 cr ~!5"
+const R1 = "{hh ~}!8"
+const R4 = "{hh ~}!5 ~!2 {hh ~}!2"
+const S1 = "~!4 bd ~!2 {bd ~}!2 ~ bd ~!2 bd"
+const S3 = "~!4 bd ~!2 {bd ~}!2 ~!3 bd ~"
+const S4 = "~ {bd ~ ~}!2 {bd ~}!2 ~!3 bd ~"
+const B1 = "{bd ~}!2 ~!6 bd!2 ~!4"
+const B3 = "{bd ~}!2 ~!6 bd ~!5"
+const B4 = "~!2 bd!2 ~!6 bd ~!5"
+
+$:  s(cat(C1, C1, C1, C4))
   .bank("akaixr10")
   .gain(2)
   ._punchcard({ labels:1})
-$: s("{{hh ~}!24 {hh ~}!5 ~!2 {hh ~}!2}/4")
+$: s(cat(R1, R1, R1, R4))
   .bank("ace")
   .gain(0.15)
   ._punchcard({ labels:1})
-$: s("{{~!4 sd ~ ~ sd ~ sd ~ ~ sd ~ ~ sd}!2 {~!4 sd ~ ~ sd ~ sd ~ ~ ~ ~ sd ~}!2}/4")
+$: s(cat(S1, S1, S3, S4))
   .bank("9000")
   .gain(2.5)
   ._punchcard({ labels:1})
-$: s("{{bd ~}!2 ~!6 bd!2 ~!4 {bd ~}!2 ~!6 bd!2 ~!4 {bd ~}!2 ~!6 bd ~ ~!6 bd!2 ~!6 bd ~!5}/4")
+$: s(cat(B1, B1, B3, B4))
   .bank("9000")
-  .gain(5)
+  .gain(2.5)
   ._punchcard({ labels:1})
